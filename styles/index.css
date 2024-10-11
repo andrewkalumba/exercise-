@@ -32,3 +32,24 @@ body {
     text-align: center;
     font-size: 1.5rem;
 }
+
+span {
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 16px;
+}
+
+p {
+    align-items: center;
+    background-color: aqua;
+    color: black;
+    padding: 16px;
+}
+
+.content {
+    margin: 0;
+    padding: 16px;
+}
