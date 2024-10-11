@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    height: 100%;
+}
+
+.header {
+    background-color: bisque;
+    margin: 0;
+    padding: 16px;
+}
+
+.header__page-title {
+    color: blue;
+    padding: 16px;
+    font-size: 1.2rem;
+    margin: 0;
+    text-align: center;
+}
